@@ -7,3 +7,8 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Prarthna Shah](https://github.com/PrarthnaShah)
+- Place: Ahmedabad, Gujarat, India
+- Bio: Interested in Programming
+- GitHub: [prarthna](https://github.com/PrarthnaShah)
