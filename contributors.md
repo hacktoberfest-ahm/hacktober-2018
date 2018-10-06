@@ -7,3 +7,8 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Sulbha Garg](https://github.com/sulbhagarg/)
+- Place: Surat, Gujarat, India
+- Bio: kind of messy
+- GitHub: [sulbhagarg](https://github.com/sulbhagarg/)
