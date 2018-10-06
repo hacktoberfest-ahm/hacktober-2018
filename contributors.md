@@ -12,4 +12,4 @@
 ### Name: [NIKHIL PATEL](https://github.com/NIKPATEL-13/)
 - Place: Ahmedabad, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
-- GitHub: [blue-atom](https://github.com/NIKPATEL-13/)
+- GitHub: [NIKPATEL-13](https://github.com/NIKPATEL-13/)
