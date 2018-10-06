@@ -3,4 +3,4 @@
 # AUTHOR: NIKHIL PATEL
 # GITHUB: https://github.com/NIKPATEL-13
 
-print("Hello World")
+print("Hello World");
