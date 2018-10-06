@@ -7,3 +7,9 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [maharshi](https://github.com/mrishi197/)
+- Place: Junagadh, Gujarat, India
+- Bio: A Geek with formal education { sort of ;) }
+- GitHub: [blue-atom](https://github.com/blue-atom/)
+
