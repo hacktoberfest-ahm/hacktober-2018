@@ -7,3 +7,8 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Jeet Soni](https://github.com/jojo553/)
+- Place: Rajkot, Gujarat, India
+- Bio: A Geek with informal education { sort of ;) }
+- GitHub: [jojo553](https://github.com/jojo553/)
