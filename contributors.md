@@ -7,3 +7,8 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Arham Doshi](https://github.com/musafir179/)
+- Place: Ahmedabad, Gujarat, India
+- Bio:  A undergrad student,just want to rock the world!
+- GitHub: [musafir179](https://github.com/musafir179/)
