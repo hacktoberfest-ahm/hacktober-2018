@@ -7,3 +7,9 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Shubh Pachchigar](https://github.com/shubhe25p/)
+- Place: Surat, Gujarat, India
+- Bio: Still a lot to learn
+- GitHub: [shubhe25p](https://github.com/shubhe25p/)
+
