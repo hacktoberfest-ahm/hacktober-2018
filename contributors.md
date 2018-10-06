@@ -7,3 +7,12 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Ritik Grag](https://github.com/ritikgarg655)
+- Place: ahmedabad, Gujarat, India
+- Bio: A Geek with formal education { sort of ;) }
+- GitHub: [ritikgarg655](https://github.com/ritikgarg655/)
+
+
+
+
