@@ -10,5 +10,5 @@
 
 ### Name: [Smith Bhojak](https://github.com/bhojaksmith/)
 - Place: Ahmedabad, Gujarat, India
-- Bio: Always Hungry for Knowledge
+- Bio: Always Hungry for knowledge
 - GitHub: [bhojaksmith](https://github.com/bhojaksmith/)
