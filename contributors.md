@@ -9,6 +9,6 @@
 - GitHub: [blue-atom](https://github.com/blue-atom/)
 
 ### Name: [Shivani Patel](https://github.com/shivanisbp/)
--Place: Ahmedabad, Gujarat, India
--Bio: undergrad.
--GitHub: [shivanisbp](https://github.com/shivanisbp/)
+- Place: Ahmedabad, Gujarat, India
+- Bio: undergrad.
+- GitHub: [shivanisbp](https://github.com/shivanisbp/)
