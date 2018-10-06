@@ -7,3 +7,6 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Utsav patel](https://github.com/utsavpatel51/)
+- Place: Gujarat, India
