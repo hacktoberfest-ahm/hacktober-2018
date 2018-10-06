@@ -7,3 +7,8 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Bhargav Khalasi](https://github.com/develeper/)
+- Place: Surat, Gujarat, India
+- Bio: Happy to Contribute...
+- GitHub: [blue-atom](https://github.com/develeper/)
