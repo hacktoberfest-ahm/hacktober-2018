@@ -1,4 +1,4 @@
-[Hacktoberfest Banner](poster.png)
+![Hacktoberfest Banner](poster.png)
 
 # Hacktoberfest Ahmedabad
 
