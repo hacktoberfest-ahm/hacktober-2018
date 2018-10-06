@@ -7,3 +7,8 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Smith Bhojak](https://github.com/bhojaksmith/)
+- Place: Ahmedabad, Gujarat, India
+- Bio: Always Hungry for Knowledge
+- GitHub: [bhojaksmith](https://github.com/bhojaksmith/)
