@@ -8,6 +8,13 @@
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
 
+<<<<<<< HEAD
+### Name: [Shubh Pachchigar](https://github.com/shubhe25p/)
+- Place: Surat, Gujarat, India
+- Bio: Still a lot to learn
+- GitHub: [shubhe25p](https://github.com/shubhe25p/)
+
+=======
 ### Name: [Vidita Chudasama](https://github.com/ViditaChudasama/)
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
@@ -22,3 +29,4 @@
 - Place: Ahmedabad, Gujarat, India
 - Bio: Human with a desire for development
 - GitHub: [aditmodhvadia](https://github.com/aditmodhvadia/)
+>>>>>>> 296d80d0bc3e6ec9e9f8869158a9e9dfa211a99c
