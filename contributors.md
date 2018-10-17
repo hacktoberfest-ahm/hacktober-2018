@@ -8,6 +8,12 @@
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
 
+
+### Name: [Smith Bhojak](https://github.com/bhojaksmith/)
+- Place: Ahmedabad, Gujarat, India
+- Bio: Always Hungry for knowledge
+- GitHub: [bhojaksmith](https://github.com/bhojaksmith/)
+
 ### Name: [Vidita Chudasama](https://github.com/ViditaChudasama/)
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
@@ -22,3 +28,4 @@
 - Place: Ahmedabad, Gujarat, India
 - Bio: Human with a desire for development
 - GitHub: [aditmodhvadia](https://github.com/aditmodhvadia/)
+
