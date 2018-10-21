@@ -34,4 +34,4 @@
 - Place: Surat, Gujarat, India
 - Bio: A not-so-simple high school student!
 - GitHub: [ssiddhantsharma](https://github.com/ssiddhantsharma/)
->>>>>>> 296d80d0bc3e6ec9e9f8869158a9e9dfa211a99c
+
