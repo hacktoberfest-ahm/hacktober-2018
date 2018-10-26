@@ -30,3 +30,8 @@
 - Bio: Human with a desire for development
 - GitHub: [aditmodhvadia](https://github.com/aditmodhvadia/)
 >>>>>>> 296d80d0bc3e6ec9e9f8869158a9e9dfa211a99c
+
+### Name: [AeroPwn](https://github.com/AeroPwn/)
+- Place: San Francisco, California
+- Bio: dev lol
+- GitHub: [AeroPwn](https://github.com/AeroPwn/)
